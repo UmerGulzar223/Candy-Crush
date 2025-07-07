@@ -1,0 +1,8 @@
+﻿  Candy Crush Game.cpp
+C:\Users\GOLDEN COMPUTERS\Desktop\Candy Crush Game.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GOLDEN COMPUTERS\Desktop\Candy Crush Game.cpp(73,13): warning C4101: 'start1': unreferenced local variable
+C:\Users\GOLDEN COMPUTERS\Desktop\Candy Crush Game.cpp(1053,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GOLDEN COMPUTERS\Desktop\Candy Crush Game.cpp(1054,12): warning C4101: 'ch2': unreferenced local variable
+C:\Users\GOLDEN COMPUTERS\Desktop\Candy Crush Game.cpp(1054,7): warning C4101: 'ch1': unreferenced local variable
+C:\Users\GOLDEN COMPUTERS\Desktop\Candy Crush Game.cpp(1505): warning C4715: 'swap': not all control paths return a value
+  Candy Crush.vcxproj -> D:\New folder\Candy Crush\x64\Debug\Candy Crush.exe
